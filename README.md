@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente me encuentro trabajando como QA Automation, también  tengo estudios en java , C#, Sql server, mysql, javascript, html y bootstrap
+Actualmente me encuentro trabajando como QA Automation, también  tengo estudios en java, selenium,spring boot , C#, Sql server, mysql, javascript y bootstrap
 
 
 ## 🌐 Socials:
