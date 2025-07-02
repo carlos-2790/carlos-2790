@@ -165,7 +165,7 @@ Mi experiencia abarca desde el desarrollo de frameworks de automatización robus
 
 ### 🌟 Últimos Repositorios
 
-[![InventarioStock](https://github-readme-stats.vercel.app/api/pin/?username=carlos-2790&repo=InventarioStock&theme=radical&hide_border=false)](https://github.com/carlos-2790/InventarioStock)
+[![InventarioStock](https://github-readme-stats.vercel.app/api/pin/?username=carlos-2790&repo=PaymentGatewayService&theme=radical&hide_border=false)](https://github.com/carlos-2790/InventarioStock)
 
 </div>
 
